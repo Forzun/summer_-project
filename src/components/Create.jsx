@@ -35,7 +35,7 @@ function Create() {
     navigation('/'); 
   }
 
-  return (
+  return ( 
     <div>
       <form
         onSubmit={AddProductHandler}
